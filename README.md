@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 I'm Sonali Parmar
 
-<!--
-**sonali2307/sonali2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+🤖 AI/ML Enthusiast
+💻 DSA & Problem Solving
+🐍 Python Developer
+🌐 Full Stack Development
 
-Here are some ideas to get you started:
+Currently learning:
+• Data Structures & Algorithms
+• Python
+• SQL
+• Machine Learning
+• Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects and learning every day.
